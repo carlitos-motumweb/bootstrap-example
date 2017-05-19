@@ -1,0 +1,106 @@
+html	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^<html lang="en">$/;"	function	line:2
+head	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^<head>$/;"	function	line:4
+meta	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <meta charset="utf-8">$/;"	function	line:6
+meta	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">$/;"	function	line:7
+link	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <link href="https:\/\/fonts.googleapis.com\/css?family=Merriweather|Roboto" rel="stylesheet">$/;"	function	line:9
+link	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <link rel="stylesheet" href="https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.5.0\/css\/font-awesome.min.css">$/;"	function	line:14
+link	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <link rel="stylesheet" type="text\/css" href="css\/bootstrap-flex.min.css">$/;"	function	line:15
+link	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <link rel="stylesheet" type="text\/css" href="css\/app.css">$/;"	function	line:16
+body	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^<body>$/;"	function	line:19
+header	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <header id="header-container">$/;"	function	line:21
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^        <div class="container">$/;"	function	line:22
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^            <div class="row flex-items-xs-middle flex-items-xs-between">$/;"	function	line:23
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="col-xs-12 col-md-6 col-xl-5 column">$/;"	function	line:24
+h	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <h1>Platzi Shop<\/h1>$/;"	function	line:25
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="col-xs-12 col-md-2 col-xl-3 text-xs-right column ">$/;"	function	line:27
+button	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <button class="navbar-toggler hidden-sm-up" data-toggle="collapse" data-target="#navMenu">&#9776<\/button>$/;"	function	line:29
+a	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <a class="login hidden-xs-down text-uppercase font-weight-bold" href="#">Login<\/a>$/;"	function	line:30
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <div id="menu-container">$/;"	function	line:37
+nav	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^        <nav id="navMenu" class="navbar-toggleable-xs navbar navbar-light collapse">$/;"	function	line:38
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^            <div class="container">$/;"	function	line:39
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="row">$/;"	function	line:40
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <div class="col-xs-10 offset-xs-1 col-md-4 offset-md-0">$/;"	function	line:41
+ul	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                        <ul class="nav navbar-nav">$/;"	function	line:42
+li	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                            <li class="nav-item text-xs-center active">$/;"	function	line:43
+a	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                <a href="#" class="nav-link">Home<\/a>$/;"	function	line:44
+li	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                            <li class="nav-item text-xs-center">$/;"	function	line:46
+a	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                <a href="#" class="nav-link">Catálogo<\/a>$/;"	function	line:47
+li	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                            <li class="nav-item text-xs-center">$/;"	function	line:49
+a	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                <a href="#" class="nav-link">Carrito<\/a>$/;"	function	line:50
+li	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                            <li class="nav-item text-xs-center hidden-sm-up">$/;"	function	line:52
+a	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                <a href="#" class="nav-link">Login<\/a>$/;"	function	line:53
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <div class="col-xs-12 col-md-6 offset-md-2 hidden-xs-down">$/;"	function	line:57
+form	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                        <form>$/;"	function	line:58
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                            <div class="input-group">$/;"	function	line:59
+input	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                <input type="text" class="form-control" placeholder="Buscar">$/;"	function	line:60
+span	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                <span class="input-group-btn">$/;"	function	line:61
+button	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                    <button class="btn btn-platzi" type="button">$/;"	function	line:62
+span	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                        <span class="hidden-sm-down">Buscar<\/span>$/;"	function	line:63
+i	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                <i class="fa fa-search hidden-md-up"><\/i>$/;"	function	line:64
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^        <div id="search-bar" class="container hidden-sm-up">$/;"	function	line:73
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^            <div class="row">$/;"	function	line:74
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="col-xs">$/;"	function	line:75
+form	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <form>$/;"	function	line:76
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                        <div class="input-group">$/;"	function	line:77
+input	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                            <input type="text" class="form-control" placeholder="Buscar">$/;"	function	line:78
+span	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                            <span class="input-group-btn">$/;"	function	line:79
+button	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                <button class="btn btn-platzi" type="button">$/;"	function	line:80
+span	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                                    <span class="hidden-sm-down">Buscar<\/span>$/;"	function	line:81
+i	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                            <i class="fa fa-search hidden-md-up"><\/i>$/;"	function	line:82
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <div id="carousel-container">$/;"	function	line:93
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^        <div id="productosCarousel" class="carousel slide" data-ride="carousel">$/;"	function	line:95
+ol	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^            <ol class="carousel-indicators">$/;"	function	line:96
+li	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <li data-target="#productosCarousel" data-slide-to="0" class="active"><\/li>$/;"	function	line:97
+li	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <li data-target="#productosCarousel" data-slide-to="1"><\/li>$/;"	function	line:98
+li	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <li data-target="#productosCarousel" data-slide-to="2"><\/li>$/;"	function	line:99
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^            <div class="carousel-inner" role="listbox">$/;"	function	line:101
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="carousel-item active">$/;"	function	line:102
+img	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <img src="img\/mascara-00.jpg" alt="First slide" class="img-fluid">$/;"	function	line:103
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <div class="carousel-caption">$/;"	function	line:104
+h	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                        <h3>M00<\/h3>$/;"	function	line:105
+p	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                        <p class="hidden-sm-down">D00<\/p>$/;"	function	line:106
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="carousel-item">$/;"	function	line:109
+img	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <img src="img\/mascara-01.jpg" alt="Second slide" class="img-fluid">$/;"	function	line:110
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <div class="carousel-caption">$/;"	function	line:111
+h	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                        <h3>M01<\/h3>$/;"	function	line:112
+p	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                        <p class="hidden-sm-down">D01<\/p>$/;"	function	line:113
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="carousel-item">$/;"	function	line:116
+img	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <img src="img\/mascara-02.jpg" alt="Third slide" class="img-fluid">$/;"	function	line:117
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <div class="carousel-caption">$/;"	function	line:118
+h	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                        <h3>M02<\/h3>$/;"	function	line:119
+p	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                        <p class="hidden-sm-down">D02<\/p>$/;"	function	line:120
+a	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^            <a class="left carousel-control" href="#productosCarousel" role="button" data-slide="prev">$/;"	function	line:124
+span	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <span class="icon-prev" aria-hidden="true"><\/span>$/;"	function	line:125
+span	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <span class="sr-only">Anterior<\/span>$/;"	function	line:126
+a	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^            <a class="right carousel-control" href="#productosCarousel" role="button" data-slide="next">$/;"	function	line:128
+span	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <span class="icon-next" aria-hidden="true"><\/span>$/;"	function	line:129
+span	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <span class="sr-only">Siguiente<\/span>$/;"	function	line:130
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <div id="info-container">$/;"	function	line:137
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^        <div class="container">$/;"	function	line:138
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^            <div class="row text-xs-center">$/;"	function	line:139
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="col-xs-12 col-md-4">$/;"	function	line:140
+img	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <img src="img\/calidad.png" alt="Calidad" class="img-fluid">$/;"	function	line:141
+h	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <h4>Calidad<\/h4>$/;"	function	line:142
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="col-xs-12 col-md-4">$/;"	function	line:144
+img	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <img src="img\/envio.png" alt="Envio" class="img-fluid">$/;"	function	line:145
+h	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <h4>Envio gratis<\/h4>$/;"	function	line:146
+div	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                <div class="col-xs-12 col-md-4">$/;"	function	line:148
+img	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <img src="img\/soporte.png" alt="Soporte" class="img-fluid">$/;"	function	line:149
+h	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^                    <h4>Soporte 24hrs<\/h4>$/;"	function	line:150
+script	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.0.0\/jquery.min.js" integrity="sha384-THPy051\/pYDQGanwU6poAc\/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY" crossorigin="anonymous"><\/script>$/;"	function	line:159
+script	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <script src="https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/tether\/1.2.0\/js\/tether.min.js" integrity="sha384-Plbmg8JY28KFelvJVai01l8WyZzrYWG825m+cZ0eDDS1f7d\/js6ikvy1+X+guPIB" crossorigin="anonymous"><\/script>$/;"	function	line:160
+script	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/index.html	/^    <script src="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/4.0.0-alpha.3\/js\/bootstrap.min.js" integrity="sha384-ux8v3A6CPtOTqOzMKiuo3d\/DomGaaClxFYdCu2HPMBEkf6x2xiDyJ7gkXU0MWwaD" crossorigin="anonymous"><\/script>$/;"	function	line:161
+body	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^body{$/;"	function	line:1
+#header-container	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^#header-container,$/;"	function	line:6
+#info-container	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^#info-container{$/;"	function	line:7
+#header-container .login	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^#header-container .login,$/;"	function	line:13
+#header-container .navbar-toggler	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^#header-container .navbar-toggler{$/;"	function	line:14
+.column	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^.column{$/;"	function	line:18
+#menu-container	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^#menu-container{$/;"	function	line:22
+.btn.btn-platzi	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^.btn.btn-platzi{$/;"	function	line:26
+.btn.btn-platzi:hover	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^.btn.btn-platzi:hover{$/;"	function	line:30
+input.form-control:focus	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^input.form-control:focus{$/;"	function	line:34
+#search-bar	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^#search-bar{$/;"	function	line:38
+#productosCarousel img	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^#productosCarousel img{$/;"	function	line:42
+#info-container h4	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^#info-container h4{$/;"	function	line:46
+#info-container img	/home/carlitos/Documentos/cursos_PLATZI/bootstrap/css/app.css	/^#info-container img{$/;"	function	line:50

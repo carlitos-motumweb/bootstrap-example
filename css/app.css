@@ -1,53 +1,74 @@
-body{
-	background-color: black;
-	font-family: 'Merriweather', sans-serif;
+body {
+    background-color: black;
+    font-family: 'Merriweather', sans-serif;
 }
 
-#header-container,
-#info-container{
-	background-color: #99c84a;
+#header-container, #info-container {
+    background-color: #99c84a;
+    color: white;
+    border: 1px solid none;
+}
+
+#header-container .login, #header-container .navbar-toggler {
+    color: white;
+}
+
+.column {
+    border: 1px solid none;
+}
+
+#menu-container {
+    background-color: #f7f7f9;
+}
+
+.btn.btn-platzi {
+    background-color: #99c84a;
+    color: white;
+}
+
+.btn.btn-platzi:hover {
+    background-color: #8ab542;
+    color: white;
+}
+
+input.form-control:focus {
+    border-color: #99c84a;
+}
+
+#search-bar {
+    padding: 1em;
+}
+
+#productosCarousel img {
+    margin: 0 auto;
+}
+
+#info-container h4 {
+    margin: 1em 0;
+}
+
+#info-container img {
+    margin: 0em auto;
+    margin-top: 2em;
+}
+
+#footer-container {
+    background-color: #1c3643;
+    color: white;
+    padding: 3em 0;
+}
+
+#footer-container h4{
+    font-size: 16px;
+}
+
+
+#footer-container .nav-link{
 	color: white;
-	border: 1px solid none;
 }
+@media(max-width:768px){
+	#footer-container [class*="col-"]{
+	    margin-bottom: 2em;
+	}
 
-#header-container .login,
-#header-container .navbar-toggler{
-	color: white;
-}
-
-.column{
-	border: 1px solid none;
-}
-
-#menu-container{
-	background-color: #f7f7f9;
-}
-
-.btn.btn-platzi{
-	background-color: #99c84a;
-	color: white;
-}
-.btn.btn-platzi:hover{
-	background-color: #8ab542;
-	color: white;
-}
-input.form-control:focus{
-	border-color: #99c84a;
-}
-
-#search-bar{
-	padding:1em;
-}
-
-#productosCarousel img{
-	margin: 0 auto;
-}
-
-#info-container h4{
-	margin: 1em 0;
-}
-
-#info-container img{
-	margin: 0em auto;
-	margin-top: 2em;
 }
