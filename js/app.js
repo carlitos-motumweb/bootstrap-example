@@ -2,6 +2,8 @@ const $form = $('#suscribeFORM')
 const $formGroup = $form.find('.form-group')
 const $formControl = $formGroup.find('.form-control')
 
+
+
 $form.submit(function(ev) {
     ev.preventDefault()
 
@@ -47,6 +49,17 @@ function mostrarModal() {
         console.log("se ha presionado el boton de NO-Gracias")
         localStorage.noMostrar = true
     })
-
-
 }
+
+const $filtrosToggle = $('#filtrosToggle')
+$filtrosToggle.click(function (ev){
+    ev.preventDefault()
+
+    const $i = $filtrosToggle.find('i.fa')
+    const isDown = $i.hasClass('fa-chevron-down')
+    if(isDown){
+        $i.removeClass('fa-chevron-down').addClass('fa-chevron-up')
+    }else{
+        $i.removeClass('fa-chevron-up').addClass('fa-chevron-down')
+    }
+})

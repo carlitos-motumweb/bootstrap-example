@@ -106,13 +106,19 @@
     </section>
     <!-- /BREADSCRUMB -->
 
-<!-- Productos -->
+    <!-- Productos -->
     <section id="productos-container">
         <div class="container">
             <div class="row">
                 <!-- filtros -->
                 <div class="col-xs-12 col-md-3">
-                    <div id="filtros-container">
+
+                    <div class="list-group filtros-toggle">
+                        <a id="filtrosToggle" href="#" class="list-group-item list-group-item-action navbar-toggle hidden-sm-up" data-target="#filtros-container" data-toggle="collapse">
+                            <h5 class="list-group-item-heading">Filtros <i class="fa fa-chevron-down"></i></h5>
+                        </a>
+                    </div>
+                    <div id="filtros-container" class="collapse navbar-toggleable-xs">
                         <div class="list-group">
                             <a href="#" class="list-group-item list-group-item-action active">
                                 <h5 class="list-group-item-heading">Categoría</h5>
@@ -143,24 +149,91 @@
                         </div>
                         <div class="list-group">
                             <a href="#" class="list-group-item list-group-item-action active">
-                                <h5 class="list-group-item-heading">Genero</h5>
+                                <h5 class="list-group-item-heading">Sexo</h5>
                             </a>
                             <a href="#" class="list-group-item list-group-item-action">
-                                Hombre <span class="tag tag-pill tag-default pull-xs-right">333</span>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input type="checkbox" value='m' class="form-check-input">
+                                        Masculino
+                                    </label>
+                                </div>
                             </a>
                             <a href="#" class="list-group-item list-group-item-action">
-                                Mujer <span class="tag tag-pill tag-default pull-xs-right">222</span>
-                            </a>
-                            <a href="#" class="list-group-item list-group-item-action">
-                                Unisex <span class="tag tag-pill tag-default pull-xs-right">111</span>
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input type="checkbox" value="f" class="form-check-input">
+                                        Femenino
+                                    </label>
+                                </div>
                             </a>
                         </div>
                     </div>
                 </div>
                 <!-- /filtros -->
                 <!-- productos -->
-                <div class="col-xs-12 col-md-9">
-                    productos
+                <div class="col-xs-12 col-md-9 listado-productos">
+                        <div class="card-deck">
+                            <div class="card ">
+                                <img class="card-img-top img-fluid" src="img/bandera00.png" alt="Card image cap">
+                                <div class="card-block">
+                                    <h4 class="card-title">Card title</h4>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <img class="card-img-top" src="img/bandera00.png" alt="Card image cap">
+                                <div class="card-block">
+                                    <h4 class="card-title">Card title</h4>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <img class="card-img-top" src="img/bandera00.png" alt="Card image cap">
+                                <div class="card-block">
+                                    <h4 class="card-title">Card title</h4>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <img class="card-img-top" src="img/bandera00.png" alt="Card image cap">
+                                <div class="card-block">
+                                    <h4 class="card-title">Card title</h4>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div id="paginator-container" class="col-xs text-xs-center">
+                                <nav>
+                                    <ul class="pagination">
+                                        <li class="page-item disabled">
+                                            <a href="#" class="page-link">&laquo;</a>
+                                        </li>
+                                        <li class="page-item active">
+                                            <a href="#" class="page-link ">1</a>
+                                        </li>
+                                        <li class="page-item">
+                                            <a href="#" class="page-link">2</a>
+                                        </li>
+                                        <li class="page-item">
+                                            <a href="#" class="page-link">3</a>
+                                        </li>
+                                        <li class="page-item">
+                                            <a href="#" class="page-link">4</a>
+                                        </li>
+                                        <li class="page-item">
+                                            <a href="#" class="page-link">&raquo;</a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </div>
+
                 </div>
                 <!-- /productos -->
             </div>
